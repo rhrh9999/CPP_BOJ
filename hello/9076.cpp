@@ -22,6 +22,7 @@ int main() {
             cin >> num[i];
         }
         sort(num, num + 5);
+
         //3
         if (num[3] - num[1] >= 4)
             cout << "KIN" << endl;
