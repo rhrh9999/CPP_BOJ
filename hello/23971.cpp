@@ -15,14 +15,13 @@ int main() {
     cin >> h >> w >> n >> m;
 
     //2
-    //h와 w를 2차원 배열에 넣으려고 했으나 미지수라 안됨
-    //ceil 함수를 이용해보자
-
     double row = 0, column = 0;
     row = (long)ceil(h / (n + 1));
     column = (long)ceil(w / (m + 1));
 
+    //3
     int sum = row * column;
     cout << sum << endl;
+
     return 0; 
 }
