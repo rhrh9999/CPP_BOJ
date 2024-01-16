@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c++_learning(101~150)", "hello\hello.vcxproj", "{B65D427B-9032-47BC-962A-3C24F58BC4EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c++ learning(151~200)", "c++ learning(151~200)\c++ learning(151~200).vcxproj", "{183E0782-39E0-4E47-B942-077C691A7E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B65D427B-9032-47BC-962A-3C24F58BC4EC}.Release|x64.Build.0 = Release|x64
 		{B65D427B-9032-47BC-962A-3C24F58BC4EC}.Release|x86.ActiveCfg = Release|Win32
 		{B65D427B-9032-47BC-962A-3C24F58BC4EC}.Release|x86.Build.0 = Release|Win32
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Debug|x64.ActiveCfg = Debug|x64
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Debug|x64.Build.0 = Debug|x64
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Debug|x86.Build.0 = Debug|Win32
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Release|x64.ActiveCfg = Release|x64
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Release|x64.Build.0 = Release|x64
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Release|x86.ActiveCfg = Release|Win32
+		{183E0782-39E0-4E47-B942-077C691A7E8F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
