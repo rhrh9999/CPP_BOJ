@@ -4,7 +4,6 @@
 using namespace std;
 
 //자꾸 15프로에서 틀렸다고 나오는데 예제 넣은거는 맞음.. 어디가 틀림?
-//이제는 34프로에서 틀렸다고 나온다.. ㅠ하
 
 /*
     1. 참여자 수 n을 입력받는다.
@@ -19,7 +18,7 @@ int main() {
     int n;
     cin >> n;
 
-    vector <int> v; //리워드 값 넣을 배열
+    vector <int> v(n); //리워드 값 넣을 배열
 
     //2
     while (n--) {
@@ -104,4 +103,3 @@ int main() {
 
     return 0;
 }
-
